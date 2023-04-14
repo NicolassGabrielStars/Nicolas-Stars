@@ -1,0 +1,15 @@
+*{margin: 0;
+padding: 0;
+
+}
+
+.cabecalho {background-color: gold ;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+
+
+
+}
+
+.stars-imagem{width:10%;} 
